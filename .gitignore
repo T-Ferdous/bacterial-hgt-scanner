@@ -1,0 +1,13 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testing & Environment
+.pytest_cache/
+venv/
+.env
+
+# Large raw data files (downloaded automatically by main.py)
+data/raw/
